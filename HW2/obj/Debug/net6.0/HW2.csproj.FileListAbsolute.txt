@@ -1,0 +1,15 @@
+D:\папка\DZ\HW2\bin\Debug\net6.0\HW2.exe
+D:\папка\DZ\HW2\bin\Debug\net6.0\HW2.deps.json
+D:\папка\DZ\HW2\bin\Debug\net6.0\HW2.runtimeconfig.json
+D:\папка\DZ\HW2\bin\Debug\net6.0\HW2.dll
+D:\папка\DZ\HW2\bin\Debug\net6.0\HW2.pdb
+D:\папка\DZ\HW2\obj\Debug\net6.0\HW2.csproj.AssemblyReference.cache
+D:\папка\DZ\HW2\obj\Debug\net6.0\HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\папка\DZ\HW2\obj\Debug\net6.0\HW2.AssemblyInfoInputs.cache
+D:\папка\DZ\HW2\obj\Debug\net6.0\HW2.AssemblyInfo.cs
+D:\папка\DZ\HW2\obj\Debug\net6.0\HW2.csproj.CoreCompileInputs.cache
+D:\папка\DZ\HW2\obj\Debug\net6.0\HW2.dll
+D:\папка\DZ\HW2\obj\Debug\net6.0\refint\HW2.dll
+D:\папка\DZ\HW2\obj\Debug\net6.0\HW2.pdb
+D:\папка\DZ\HW2\obj\Debug\net6.0\HW2.genruntimeconfig.cache
+D:\папка\DZ\HW2\obj\Debug\net6.0\ref\HW2.dll
